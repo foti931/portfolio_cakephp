@@ -33,7 +33,7 @@ return static function (RouteBuilder $routes) {
      *
      * - Route
      * - InflectedRoute
-     * - DashedRoute
+         * - DashedRoute
      *
      * If no call is made to `Router::defaultRouteClass()`, the class used is
      * `Route` (`Cake\Routing\Route\Route`)
